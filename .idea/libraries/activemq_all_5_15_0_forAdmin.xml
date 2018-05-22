@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="activemq-all-5.15.0_forAdmin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week6_JMSAdministrator/lib/activemq-all-5.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

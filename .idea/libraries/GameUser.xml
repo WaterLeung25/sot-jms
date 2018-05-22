@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GameUser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week6_JMSUser/lib/GameUser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
